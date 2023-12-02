@@ -1,0 +1,18 @@
+/* Toggle.css */
+.toggle-container {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.open {
+    background-color: #28a745;
+    color: #fff;
+}
+
+.closed {
+    background-color: #dc3545;
+    color: #fff;
+}
